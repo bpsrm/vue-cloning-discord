@@ -1,11 +1,11 @@
 <template>
   <div class="container my-5 py-5 px-3">
     <div class="row">
-      <div class="col-6">
+      <div class="col-12 col-lg-6">
         <img src="/src/assets/section-three.svg" alt="" class="w-100" />
       </div>
       <div
-        class="col-6 d-flex flex-column align-items-center justify-content-center"
+        class="col-12 col-lg-6 d-flex flex-column align-items-center justify-content-center mt-4 mt-lg-0"
       >
         <div class="text-start">
           <h1 class="topic-section">

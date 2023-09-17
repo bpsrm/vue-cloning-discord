@@ -2,7 +2,7 @@
   <div class="container-fluid p-3">
     <div class="container">
       <div class="row mt-5">
-        <div class="col-4 d-flex flex-column align-items-start">
+        <div class="col-12 col-lg-4 d-flex flex-column align-items-start">
           <div class="dropdown mb-4">
             <button
               class="btn-dropdown"
@@ -20,7 +20,9 @@
           </div>
           <SocialRow />
         </div>
-        <div class="col-8 d-flex justify-content-between">
+        <div
+          class="col-12 col-lg-8 d-flex justify-content-start justify-content-lg-between"
+        >
           <div class="product-box">
             <p>Product</p>
             <ul>
